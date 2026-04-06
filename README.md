@@ -20,7 +20,7 @@ Alternative datasets (if you want variety):
 - [Credit Card Fraud 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
 
 ## Current Notebook
-- `credit_fraud_anomaly_detection.ipynb` → Isolation Forest baseline + evaluation.
+- [`credit_fraud_anomaly_detection.ipynb`](https://github.com/S33mi/credit-fraud-analytics/blob/main/credit_fraud_anomaly_detection.ipynb) → Isolation Forest baseline + evaluation.
 
 More to come: Compare with Local Outlier Factor, Autoencoders, or supervised models (e.g., XGBoost with SMOTE).
 
@@ -29,7 +29,7 @@ More to come: Compare with Local Outlier Factor, Autoencoders, or supervised mod
 pip install -r requirements.txt
 jupyter notebook
 ```
-Or open directly in Colab: ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+Or open directly in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S33mi/credit-fraud-analytics/blob/main/credit_fraud_anomaly_detection.ipynb)
 
 ## Skills Demonstrated
 
